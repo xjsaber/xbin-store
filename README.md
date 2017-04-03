@@ -1,7 +1,11 @@
 > 由于本人最近在准备面试 所以这个项目可能会耽误一段时间 :yum: :yum:
 
 ## xbin-store
+[![License](https://img.shields.io/badge/license-GPL-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/xubinux/xbin-store.svg?style=social&label=Stars)](https://github.com/xubinux/xbin-store)[![GitHub forks](https://img.shields.io/github/forks/xubinux/xbin-store.svg?style=social&label=Fork)](https://github.com/xubinux/xbin-store)
+
 模仿国内知名B2C网站,实现的一个分布式B2C商城
+
 
 使用技术:
 
@@ -33,37 +37,37 @@
 
 ## 运行截图
 ### 首页
-![20170320148998263242121.png](https://raw.githubusercontent.com/xubinux/xbin-store/master/Images/首页.png)
+![20170320148998263242121.png](http://git.oschina.net/binu/xbin-store/raw/master/Images/首页.png)
 
 ### 登录
-![20170320148998264384011.png](https://raw.githubusercontent.com/xubinux/xbin-store/master/Images/登录.png)
+![20170320148998264384011.png](http://git.oschina.net/binu/xbin-store/raw/master/Images/登录.png)
 
 ### 注册
-![201703201489982653612.png](https://raw.githubusercontent.com/xubinux/xbin-store/master/Images/注册.png)
+![201703201489982653612.png](http://git.oschina.net/binu/xbin-store/raw/master/Images/注册.png)
 
 ### 搜索
-![20170320148998266267017.png](https://raw.githubusercontent.com/xubinux/xbin-store/master/Images/搜索.png)
+![20170320148998266267017.png](http://git.oschina.net/binu/xbin-store/raw/master/Images/搜索.png)
 
 ### 商品详情
-![20170320148998269698649.png](https://raw.githubusercontent.com/xubinux/xbin-store/master/Images/商品详情.png)
+![20170320148998269698649.png](http://git.oschina.net/binu/xbin-store/raw/master/Images/商品详情.png)
 
 ### 加入购物车
-![20170320148998270641283.png](https://raw.githubusercontent.com/xubinux/xbin-store/master/Images/加入购物车.png)
+![20170320148998270641283.png](http://git.oschina.net/binu/xbin-store/raw/master/Images/加入购物车.png)
 
 ### 购物车
-![20170320148998271738052.png](https://raw.githubusercontent.com/xubinux/xbin-store/master/Images/购物车.png)
+![20170320148998271738052.png](http://git.oschina.net/binu/xbin-store/raw/master/Images/购物车.png)
 
 ### 订单确认
-![20170320148998272353143.png](https://raw.githubusercontent.com/xubinux/xbin-store/master/Images/订单确认.png)
+![20170320148998272353143.png](http://git.oschina.net/binu/xbin-store/raw/master/Images/订单确认.png)
 
 ### 结算页
-![20170320148998273050196.png](https://raw.githubusercontent.com/xubinux/xbin-store/master/Images/结算页.png)
+![20170320148998273050196.png](http://git.oschina.net/binu/xbin-store/raw/master/Images/结算页.png)
 
 ### 后台页面
-![20170320148998275560672.png](https://raw.githubusercontent.com/xubinux/xbin-store/master/Images/后台.png)
+![20170320148998275560672.png](http://git.oschina.net/binu/xbin-store/raw/master/Images/后台.png)
 
 ### 启动虚拟机
-![20170320148998297295027.png](https://raw.githubusercontent.com/xubinux/xbin-store/master/Images/虚拟机.png)
+![20170320148998297295027.png](http://git.oschina.net/binu/xbin-store/raw/master/Images/虚拟机.png)
 
 * Zookeeper1    提供服务:Zookeeper
 * Storm1        提供服务:FastDFS Tracker
@@ -72,10 +76,10 @@
 * Solr          提供服务:Solr
 
 ### Dubbox Admin 服务使用情况
-![20170320148998294075274.png](https://raw.githubusercontent.com/xubinux/xbin-store/master/Images/Dubbox.png)
+![20170320148998294075274.png](http://git.oschina.net/binu/xbin-store/raw/master/Images/Dubbox.png)
 
 ### 任务管理器
-![20170320148998292034786.png](https://raw.githubusercontent.com/xubinux/xbin-store/master/Images/任务管理器.png)
+![20170320148998292034786.png](http://git.oschina.net/binu/xbin-store/raw/master/Images/任务管理器.png)
 
 > 启动了 5 台虚拟机＋ 7 台 Tomcat ＋ 9 个 Dubbox 服务 内存使用情况
 
@@ -88,7 +92,7 @@
 
 ## 群
 
-![20170320148998263242121.png](https://raw.githubusercontent.com/xubinux/xbin-store/master/Images/QQ.png)
+![20170320148998263242121.png](http://git.oschina.net/binu/xbin-store/raw/master/Images/QQ.png)
 
 > 新建了一个Q群，想参与开发或讨论技术的可以扫描二维码，进群验证请填写你的Github用户名，否则一律拒绝。
 
