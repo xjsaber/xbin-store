@@ -2,7 +2,7 @@
 
 ## xbin-store
 [![License](https://img.shields.io/badge/license-GPL-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/xubinux/xbin-store.svg?style=social&label=Stars)](https://github.com/xubinux/xbin-store)[![GitHub forks](https://img.shields.io/github/forks/xubinux/xbin-store.svg?style=social&label=Fork)](https://github.com/xubinux/xbin-store)
+[![GitHub stars](https://img.shields.io/github/stars/xubinux/xbin-store.svg?style=social&label=Stars)](https://git.oschina.net/binu/xbin-store)[![GitHub forks](https://img.shields.io/github/forks/xubinux/xbin-store.svg?style=social&label=Fork)](https://git.oschina.net/binu/xbin-store)
 
 模仿国内知名B2C网站,实现的一个分布式B2C商城
 
@@ -101,13 +101,13 @@
 ### Tomcat地址(本机)
 |名称|IP|完成情况|
 |:---------------:|:---------------:|:---------------:|
-| Portal  |192.168.125.1:8101 |[完成情况](https://github.com/xubinux/xbin-store/blob/master/xbin-store-web-portal/README.md)|
-| Search  |192.168.125.1:8102 |[完成情况](https://github.com/xubinux/xbin-store/blob/master/xbin-store-web-search/README.md)|
-| Item    |192.168.125.1:8103 |[完成情况](https://github.com/xubinux/xbin-store/blob/master/xbin-store-web-item/README.md)|
-| SSO     |192.168.125.1:8104 |[完成情况](https://github.com/xubinux/xbin-store/blob/master/xbin-store-web-sso/README.md)|
-| Admin   |192.168.125.1:8105 |[完成情况](https://github.com/xubinux/xbin-store/tree/master/xbin-store-web-admin/README.md)|
-| Cart    |192.168.125.1:8106 |[完成情况](https://github.com/xubinux/xbin-store/tree/master/xbin-store-web-cart/README.md)|
-| Order   |192.168.125.1:8107 |[完成情况](https://github.com/xubinux/xbin-store/blob/master/xbin-store-web-order/README.md)|
+| Portal  |192.168.125.1:8101 |[完成情况](https://git.oschina.net/binu/xbin-store/blob/master/xbin-store-web-portal/README.md)|
+| Search  |192.168.125.1:8102 |[完成情况](https://git.oschina.net/binu/xbin-store/blob/master/xbin-store-web-search/README.md)|
+| Item    |192.168.125.1:8103 |[完成情况](https://git.oschina.net/binu/xbin-store/blob/master/xbin-store-web-item/README.md)|
+| SSO     |192.168.125.1:8104 |[完成情况](https://git.oschina.net/binu/xbin-store/blob/master/xbin-store-web-sso/README.md)|
+| Admin   |192.168.125.1:8105 |[完成情况](https://git.oschina.net/binu/xbin-store/tree/master/xbin-store-web-admin/README.md)|
+| Cart    |192.168.125.1:8106 |[完成情况](https://git.oschina.net/binu/xbin-store/tree/master/xbin-store-web-cart/README.md)|
+| Order   |192.168.125.1:8107 |[完成情况](https://git.oschina.net/binu/xbin-store/blob/master/xbin-store-web-order/README.md)|
 
 ### Dubbox服务地址(本机)
 | 服务名称|Dubbox服务端口  |rest服务端口|
