@@ -1,4 +1,5 @@
-> 由于本人最近在准备面试 所以这个项目可能会耽误一段时间 :yum: :yum:
+> 不准备面试了 还是写项目有意思 最近在把项目改`Spring Boot` 应该就在这几天可以全部修改好
+> 另外等这个项目转移到`Spring Boots` 后会使用`Spring Cloud`重新开发一个项目 对`Spring Cloud`和`Dubbox`有兴趣的可以加群一起讨论626068936
 
 ## xbin-store
 [![License](https://img.shields.io/badge/license-GPL-blue.svg)](LICENSE)
