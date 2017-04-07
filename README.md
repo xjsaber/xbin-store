@@ -140,9 +140,6 @@ eclipse自行解决
 
 不使用 IDEA 的启动 dubbo 服务直接运行每个 service 服务的 `src/test/java/vip/xubin/Provider.java`中的 main 方法启动服务
 
-###5、启动
-按照依赖启动 Redis-Service 先启动 其他 service 启动,在 web 启动。
-
 #### Tomcat地址(本机)
 |名称|IP|完成情况|
 |:---------------:|:---------------:|:---------------:|
@@ -166,6 +163,9 @@ eclipse自行解决
 | Notify-Service     | 192.168.125.1:20886 |rest:8516 |
 | Cart-Service       | 192.168.125.1:20887 |rest:8517 |
 | Order-Service      | 192.168.125.1:20888 |rest:8518 |
+
+###5、启动
+按照依赖启动 Redis-Service 先启动 其他 service 启动,在 web 启动。
 
 ###结构图
 ![20170407149155166510416.png](http://on2bs9q7q.bkt.clouddn.com/20170407149155166510416.png)
