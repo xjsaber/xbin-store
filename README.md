@@ -1,6 +1,11 @@
-> 不准备面试了 还是写项目有意思 最近在把项目改`Spring Boot` 应该就在这几天可以全部修改好
+> 目前项目已经全部换成 `Spring Boot` 但是目前还是存在一些问题 今天不想改了 
+>
+> 1、`Solr` 和 `MQ` 没有配置 也就是说搜索模块暂时使用不了
 > 
-> 另外等这个项目转移到`Spring Boots` 后会使用`Spring Cloud`重新开发一个项目 对`Spring Cloud`和`Dubbox`有兴趣的可以加群一起讨论626068936
+> 2、 Web 工程 我还没整合好 页面只是后缀从`.jsp`换成了`Html` 访问也有问题 明天再解决!
+>
+> 3、 运行流程 明天重写！！！
+
 
 ## xbin-store
 [![License](https://img.shields.io/badge/license-GPL-blue.svg)](LICENSE)
@@ -8,9 +13,7 @@
 
 模仿国内知名B2C网站,实现的一个分布式B2C商城
 
-群 626068936 :u7a7a: 
-
-ps.进群参与开发或讨论 进群验证请填写**码云**账户名
+进群参与开发或讨论 群 626068936 :u7a7a: 
 
 使用技术:
 
@@ -82,9 +85,7 @@ GitHub：  https://github.com/xubinux/xbin-store
 
 OSChina: http://git.oschina.net/binu/xbin-store
 
-IDEA 可以直接 VCS -> `Checkout from Version Control` -> Git -> 填写地址`https://git.oschina.net/binu/xbin-store.git`
-
-IDEA导入可以只导入`xbin-store`父工程 会自动导入全部模块
+IDEA导入可以只导入`xbin-store`父工程 会**自动导入全部模块**
 
 eclipse自行解决
 
@@ -165,6 +166,8 @@ eclipse自行解决
 | Order-Service      | 192.168.125.1:20888 |rest:8518 |
 
 ###5、启动
+zookeeper启动 redis启动 FastDFS启动
+
 按照依赖启动 Redis-Service 先启动 其他 service 启动,在 web 启动。
 
 ###结构图
